@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+At Scalabli, our mission is to make technology accessible for all individuals, regardless of ability. We specialize in creating user-friendly software that is intuitive and easy to use for individuals with disabilities.
+
+Our team is comprised of experienced software developers and accessibility experts who work closely together to design and develop solutions that meet the unique needs of our clients.
 
 With our software engineering expertise, you can either temporarily use us to increase your software development capacity, or outsource a complete development project to us.
 <!--
